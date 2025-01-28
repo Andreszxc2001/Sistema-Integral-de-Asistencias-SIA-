@@ -1,11 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Página-1" id="48M1OholPXDdKoVH5Szc">
-    <mxGraphModel dx="866" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_KhCzG9Bb4c7q6jr102G-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;base de datos&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#66FF66,#66FF66);" vertex="1" parent="1">
-          <mxGeometry x="157" y="85" width="109" height="170" as="geometry" />
+          <mxGeometry x="-27" y="282" width="109" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-2" target="_KhCzG9Bb4c7q6jr102G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-2" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="372.6470588235295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-3" value="Ingresar correo y contraseña" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="198" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
