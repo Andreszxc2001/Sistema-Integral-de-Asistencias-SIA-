@@ -120,7 +120,7 @@
             <mxRectangle width="148" height="81" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRnEoflxh51FS6Fjrhx--35" value="horario (tipo Enfoque mañana , tarde)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="zRnEoflxh51FS6Fjrhx--30">
+        <mxCell id="zRnEoflxh51FS6Fjrhx--35" value="horario (tipo enfoque mañana , tarde)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="zRnEoflxh51FS6Fjrhx--30">
           <mxGeometry x="598" width="142" height="81" as="geometry">
             <mxRectangle width="142" height="81" as="alternateBounds" />
           </mxGeometry>
