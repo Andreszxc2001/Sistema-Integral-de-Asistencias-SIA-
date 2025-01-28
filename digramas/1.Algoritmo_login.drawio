@@ -172,8 +172,19 @@
         <mxCell id="_KhCzG9Bb4c7q6jr102G-83" value="Si" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66FF66);" vertex="1" parent="1">
           <mxGeometry x="-797" y="484" width="41" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-87" target="_KhCzG9Bb4c7q6jr102G-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-772.25" y="311.47058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-87" value="Bloquear al usuario con IP y espera 1 hora paara volver a logearse" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-842.5" y="366" width="132" height="65" as="geometry" />
+          <mxGeometry x="-846.76" y="366" width="140.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-89" target="_KhCzG9Bb4c7q6jr102G-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-89" value="Mensaje (Haz alcanzado el limite de intentos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-833.63" y="250" width="114.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
