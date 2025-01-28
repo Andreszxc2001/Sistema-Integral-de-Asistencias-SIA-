@@ -9,7 +9,7 @@
             <mxPoint x="-136" y="862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRnEoflxh51FS6Fjrhx--1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 25px;&quot;&gt;&lt;b&gt;SQL&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#33FFFF;" vertex="1" parent="1">
+        <mxCell id="zRnEoflxh51FS6Fjrhx--1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 25px;&quot;&gt;&lt;b&gt;SQL&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="481" y="500" width="150" height="202" as="geometry" />
         </mxCell>
         <mxCell id="zRnEoflxh51FS6Fjrhx--2" value="Tabla 1 centros" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fillColor=#00FF00;" vertex="1" parent="1">
@@ -410,6 +410,11 @@
             <Array as="points">
               <mxPoint x="-900" y="203" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zRnEoflxh51FS6Fjrhx--196" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Clave foránea&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="zRnEoflxh51FS6Fjrhx--195">
+          <mxGeometry x="-0.1887" y="197" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
