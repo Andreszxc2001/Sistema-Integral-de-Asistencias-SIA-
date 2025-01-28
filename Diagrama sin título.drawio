@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Página-1" id="TvYG14Qko4ZeJ21JqZOj">
-    <mxGraphModel dx="3965" dy="1413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3211" dy="1027" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,8 +161,8 @@
             <mxPoint x="41.16000000000008" y="726.7520000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;Diagrama de base de datos&amp;nbsp; relacionales PlaniApp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="74" y="101" width="999" height="71" as="geometry" />
+        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;Base de datos&amp;nbsp; PlaniApp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="325" y="101" width="497" height="71" as="geometry" />
         </mxCell>
         <mxCell id="zRnEoflxh51FS6Fjrhx--68" value="Tabla 3 asignaturas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-630" y="620" width="487.5700000000004" height="112.54" as="geometry" />
