@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Página-1" id="TvYG14Qko4ZeJ21JqZOj">
-    <mxGraphModel dx="1980" dy="807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3165" dy="1413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,8 +170,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Diagrama de base de datos&amp;nbsp; relacionales Planiapp&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;" vertex="1" parent="1">
-          <mxGeometry x="134" y="104" width="872" height="55" as="geometry" />
+        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;Diagrama de base de datos&amp;nbsp; relacionales PlaniApp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="74" y="101" width="999" height="71" as="geometry" />
         </mxCell>
         <mxCell id="zRnEoflxh51FS6Fjrhx--68" value="Tabla 1 grados" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-374" y="641" width="708.5679513184591" height="112.5431034482757" as="geometry" />
