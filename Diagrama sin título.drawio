@@ -161,8 +161,8 @@
             <mxPoint x="41.16000000000008" y="726.7520000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;Base de datos&amp;nbsp; PlaniApp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="325" y="101" width="497" height="71" as="geometry" />
+        <mxCell id="zRnEoflxh51FS6Fjrhx--67" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 49px;&quot;&gt;Base de datos de Sistema integral de asistencias (SIA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="38" y="96" width="1079" height="71" as="geometry" />
         </mxCell>
         <mxCell id="zRnEoflxh51FS6Fjrhx--68" value="Tabla 3 asignaturas" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fontSize=16;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-630" y="620" width="487.5700000000004" height="112.54" as="geometry" />
