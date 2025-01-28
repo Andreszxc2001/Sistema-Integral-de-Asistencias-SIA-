@@ -57,3 +57,14 @@ CREATE TABLE roles (
     estado ENUM('activo', 'inactivo'),
     fecha_creacion DATE
 );
+CREATE TABLE usuarios (
+    id_usuario INT AUTO_INCREMENT PRIMARY KEY,
+    id_rol INT,
+    nombres_y_apellidos VARCHAR(255),
+    tipo_documento VARCHAR(50),
+    numero_documento VARCHAR(50),
+    correo VARCHAR(100),
+    contrasena VARCHAR(255),
+    FOREIGN KEY (id_rol) REFERENCES roles(id_rol)
+);
+
