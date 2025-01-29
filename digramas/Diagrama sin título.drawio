@@ -289,21 +289,21 @@
             <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoBx2cW54jUseg5PgKrj-144" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;exitX=0.011;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="NoBx2cW54jUseg5PgKrj-144" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="69.99999999999982" y="-1160" as="sourcePoint" />
-            <mxPoint x="125.05" y="-1060" as="targetPoint" />
+            <mxPoint x="80" y="-1120" as="sourcePoint" />
+            <mxPoint x="145.04999999999995" y="-1040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="15.049999999999997" y="-1169.13" />
-              <mxPoint x="-94.95" y="-1029.13" />
-              <mxPoint x="-44.95" y="-1099.13" />
-              <mxPoint x="-44.95" y="-1079.13" />
-              <mxPoint x="-44.95" y="-1139.13" />
-              <mxPoint x="-104.95" y="-969.43" />
+              <mxPoint x="35.05000000000001" y="-1149.13" />
+              <mxPoint x="-74.94999999999999" y="-1009.1300000000001" />
+              <mxPoint x="-24.94999999999999" y="-1079.13" />
+              <mxPoint x="-24.94999999999999" y="-1059.13" />
+              <mxPoint x="-24.94999999999999" y="-1119.13" />
+              <mxPoint x="-84.94999999999999" y="-949.43" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoBx2cW54jUseg5PgKrj-149" value="tabla 2 periodos_academicos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#00FF00;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="NoBx2cW54jUseg5PgKrj-149" value="tabla 3 grados" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#00FF00;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="-590" width="450" height="260" as="geometry" />
         </mxCell>
         <mxCell id="NoBx2cW54jUseg5PgKrj-150" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-149">
@@ -314,7 +314,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoBx2cW54jUseg5PgKrj-152" value="(id_periodo INT PRIMARY KEY AUTO_INCREMENT," style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#66FF66;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontSize=12;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-150">
+        <mxCell id="NoBx2cW54jUseg5PgKrj-152" value="(id_grado INT PRIMARY KEY AUTO_INCREMENT," style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#66FF66;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;fontSize=12;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-150">
           <mxGeometry x="30" width="420" height="20" as="geometry">
             <mxRectangle width="420" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -322,12 +322,12 @@
         <mxCell id="NoBx2cW54jUseg5PgKrj-153" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-149">
           <mxGeometry y="50" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NoBx2cW54jUseg5PgKrj-154" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-153">
+        <mxCell id="NoBx2cW54jUseg5PgKrj-154" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#66FFFF;top=0;left=0;bottom=0;right=0;strokeColor=#000000;fontStyle=1" vertex="1" parent="NoBx2cW54jUseg5PgKrj-153">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoBx2cW54jUseg5PgKrj-155" value="nombre VARCHAR(100)," style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=9;" vertex="1" parent="NoBx2cW54jUseg5PgKrj-153">
+        <mxCell id="NoBx2cW54jUseg5PgKrj-155" value="id_centro INT," style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=#66FFFF;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontSize=9;fontStyle=1" vertex="1" parent="NoBx2cW54jUseg5PgKrj-153">
           <mxGeometry x="30" width="420" height="30" as="geometry">
             <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -409,6 +409,9 @@
           <mxGeometry x="30" width="420" height="30" as="geometry">
             <mxRectangle width="420" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NoBx2cW54jUseg5PgKrj-175" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-3" target="NoBx2cW54jUseg5PgKrj-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
