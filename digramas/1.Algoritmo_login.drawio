@@ -32,11 +32,11 @@
         <mxCell id="_KhCzG9Bb4c7q6jr102G-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-9" target="_KhCzG9Bb4c7q6jr102G-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_KhCzG9Bb4c7q6jr102G-9" value="validador de entrada&lt;div&gt;(verificar campos vacíos, caracteres especiales y prevención de inyecciones sql/xss y longitud de contraseña, bloqueo de vista o modificación desde consola del navegador)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-484.5" y="340" width="248" height="102" as="geometry" />
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-9" value="validador de entrada&lt;div&gt;(verificar campos vacíos, bloqueo de caracteres especiales y prevención de inyecciones sql/xss y longitud de contraseña, bloqueo de vista o modificación desde consola del navegador)&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-484.5" y="340" width="295.5" height="102" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-11" value="Consulta en base de datos de credenciales (correo y contraseña)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-446" y="478" width="182" height="69" as="geometry" />
+          <mxGeometry x="-427.75" y="475" width="182" height="69" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-11" target="_KhCzG9Bb4c7q6jr102G-1" edge="1">
           <mxGeometry relative="1" as="geometry">
