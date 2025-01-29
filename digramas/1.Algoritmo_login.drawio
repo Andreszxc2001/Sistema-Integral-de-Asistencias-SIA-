@@ -85,10 +85,13 @@
         <mxCell id="_KhCzG9Bb4c7q6jr102G-21" value="Si" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#66FF66);" parent="1" vertex="1">
           <mxGeometry x="-346" y="845.25" width="60" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-27" target="vCBoUSU8JS7dNAUWbDVz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-27" value="olvide mis credenciales" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-283" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_KhCzG9Bb4c7q6jr102G-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-33" target="_KhCzG9Bb4c7q6jr102G-8" edge="1">
+        <mxCell id="_KhCzG9Bb4c7q6jr102G-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-33" target="_KhCzG9Bb4c7q6jr102G-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-33" value="Mensaje (credenciales incorrectas te quedan X limite de intentos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
@@ -127,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-73" value="Contar intentos fallidos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="832" width="120" height="59" as="geometry" />
+          <mxGeometry x="-730" y="825" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-77" target="_KhCzG9Bb4c7q6jr102G-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,7 +174,7 @@
         <mxCell id="vCBoUSU8JS7dNAUWbDVz-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vCBoUSU8JS7dNAUWbDVz-4" target="_KhCzG9Bb4c7q6jr102G-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vCBoUSU8JS7dNAUWbDVz-4" value="Mensaje (implementación de capcha a los 4 intentos fallidos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-4" value="Mensaje (implementación de capcha a los 3 intentos fallidos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-787.3000000000001" y="752" width="230.6" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vCBoUSU8JS7dNAUWbDVz-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-63" target="_KhCzG9Bb4c7q6jr102G-63">
@@ -182,6 +185,25 @@
         </mxCell>
         <mxCell id="vCBoUSU8JS7dNAUWbDVz-13" value="Mensaje (Notificación al correo electrónico del administrador de un inicio de sesion que solo cumple con el usuario)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-844.37" y="374" width="145.75" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCBoUSU8JS7dNAUWbDVz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-34.14285714285688" y="1051.5714285714287" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="9" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vCBoUSU8JS7dNAUWbDVz-16" target="vCBoUSU8JS7dNAUWbDVz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-76.00000000000023" y="458.7142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-16" value="Notificación a correo electrónico del administrador" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="313" width="120" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="vCBoUSU8JS7dNAUWbDVz-19" value="Mensaje (Hemos Notificado tu olvido de credenciales)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="442" width="120" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
