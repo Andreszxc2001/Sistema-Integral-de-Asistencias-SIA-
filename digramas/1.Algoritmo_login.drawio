@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-8" value="Ingresar correo y contraseña" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-523" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-475" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-9" target="_KhCzG9Bb4c7q6jr102G-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,14 @@
           <mxGeometry x="-283" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-92" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;" parent="1" source="_KhCzG9Bb4c7q6jr102G-33" target="_KhCzG9Bb4c7q6jr102G-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-513" y="366" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-33" value="Mensaje (credenciales incorrectas te quedan X limite de intentos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-636" y="449" width="154" height="60" as="geometry" />
+          <mxGeometry x="-638.5" y="452.5" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_KhCzG9Bb4c7q6jr102G-65" target="_KhCzG9Bb4c7q6jr102G-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -118,10 +122,10 @@
           <mxGeometry x="-159.25" y="1035" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-65" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-525" y="80" width="124" height="96" as="geometry" />
+          <mxGeometry x="-479" y="83" width="124" height="96" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-67" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-478" y="89" width="30" height="60" as="geometry" />
+          <mxGeometry x="-435.5" y="99" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KhCzG9Bb4c7q6jr102G-94" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="_KhCzG9Bb4c7q6jr102G-73" target="_KhCzG9Bb4c7q6jr102G-77" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -213,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5T2TWeuZ88sEgPXUiJGP-6" value="Mensaje (implementación de capcha a los 3 intentos fallidos)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-674.3000000000001" y="583" width="230.6" height="46" as="geometry" />
+          <mxGeometry x="-674.3" y="598" width="230.6" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5T2TWeuZ88sEgPXUiJGP-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-80" target="5T2TWeuZ88sEgPXUiJGP-6">
           <mxGeometry relative="1" as="geometry" />
@@ -224,8 +228,20 @@
         <mxCell id="5T2TWeuZ88sEgPXUiJGP-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Conexión base de datos centralizada&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#66FF66,#66FF66);" vertex="1" parent="1">
           <mxGeometry x="-139" y="-248" width="109" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="5T2TWeuZ88sEgPXUiJGP-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 26px;&quot;&gt;Dama algoritmo: Iniciar sesión&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-847" y="22" width="845" height="30" as="geometry" />
+        <mxCell id="5T2TWeuZ88sEgPXUiJGP-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;vertical-align: inherit; font-size: 31px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Diagrama algorítmico: Login.php&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="24" width="845" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T2TWeuZ88sEgPXUiJGP-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;vertical-align: inherit; font-size: 31px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Diagrama algorítmico: config_database.php&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="-1064" width="845" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T2TWeuZ88sEgPXUiJGP-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;vertical-align: inherit; font-size: 31px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Diagrama algorítmico: procesar_login.php&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="1134" width="845" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5T2TWeuZ88sEgPXUiJGP-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Conexión base de datos centralizada&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#66FF66,#66FF66);" vertex="1" parent="1">
+          <mxGeometry x="-125" y="3105" width="109" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5T2TWeuZ88sEgPXUiJGP-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;vertical-align: inherit; font-size: 31px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Diagrama algorítmico: dashboard.php&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-847" y="2236" width="845" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
