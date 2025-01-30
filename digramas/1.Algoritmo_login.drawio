@@ -203,7 +203,7 @@
         <mxCell id="5T2TWeuZ88sEgPXUiJGP-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.047;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="_KhCzG9Bb4c7q6jr102G-73" target="_KhCzG9Bb4c7q6jr102G-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-373" y="750" />
+              <mxPoint x="-380" y="699" />
             </Array>
           </mxGeometry>
         </mxCell>
