@@ -452,22 +452,22 @@
         <mxCell id="hfySa0wKCtFvmeLXtYxJ-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Botones de acción&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490.5" y="2584" width="161" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-25" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-25" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Crear centro&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-818" y="2708" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-26" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-26" value="Crear grado" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-678" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-27" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Crear asignatura&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-277" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-28" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-28" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Crear usuario&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-142" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-34" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Crear estudiante&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-538" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-35" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Crear profesor&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-408" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
