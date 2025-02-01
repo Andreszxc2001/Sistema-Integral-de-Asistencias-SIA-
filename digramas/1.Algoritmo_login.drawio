@@ -484,7 +484,7 @@
         <mxCell id="hfySa0wKCtFvmeLXtYxJ-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hfySa0wKCtFvmeLXtYxJ-42" target="hfySa0wKCtFvmeLXtYxJ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hfySa0wKCtFvmeLXtYxJ-42" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Establecer conexión a base de datos centraalizada&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hfySa0wKCtFvmeLXtYxJ-42" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Establecer conexión a base de datos centrada&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-810.25" y="2429" width="153.5" height="74" as="geometry" />
         </mxCell>
         <mxCell id="hfySa0wKCtFvmeLXtYxJ-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hfySa0wKCtFvmeLXtYxJ-42" target="hfySa0wKCtFvmeLXtYxJ-13">
